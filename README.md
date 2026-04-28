@@ -21,49 +21,24 @@
 ![GitHub followers](https://img.shields.io/github/followers/syedakinzabatool?label=Followers&style=flat-square&color=7c3aed)
 
 </div>
-
----
-
 ## 🧬 About Me
 
-```python
-class KinzaBatool:
-    def __init__(self):
-        self.name       = "Syeda Kinza Batool"
-        self.role       = "AI/ML Engineer & CS Student"
-        self.location   = "Pakistan 🇵🇰"
-        self.focus      = ["Machine Learning", "Deep Learning", "Data Science"]
-        self.tools      = ["Python", "PyTorch", "TensorFlow", "scikit-learn"]
-        self.currently  = "Training models and breaking things 🔥"
-        self.goal       = "Turn every idea into a working ML solution"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool 🚀")
-
-me = KinzaBatool()
-me.say_hi()
-```
-
----
-
+🎓 **Syeda Kinza Batool** — AI/ML Engineer & CS Student  
+🎯 Focus → Machine Learning · Deep Learning · Data Science  
+🔧 Tools → Python · PyTorch · TensorFlow · scikit-learn  
+⚡ Currently → Training models and breaking things 🔥  
+🚀 Goal → Turn every idea into a working ML solution
 ## 🔭 What I'm Working On
-
-| 🏷️ Area | 📌 Focus |
-|---|---|
-| 🤖 **Model Building** | Training, evaluation, and iterative improvement |
-| 🧹 **Data Engineering** | Preprocessing, feature engineering, EDA |
-| 🧪 **Experimentation** | Hyperparameter tuning, ablation studies |
-| 🧠 **Deep Learning** | Neural networks, CNNs, RNNs, Transformers |
-| 📚 **Classical ML** | Regression, classification, clustering, ensembles |
-
----
-
 ## 🛠️ Tech Stack & Tools
 
-### 👩‍💻 Languages
+## 👩‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🧠 ML / DL Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -76,6 +51,7 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### ⚙️ Dev Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -83,38 +59,14 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 ---
 
 ## 📈 Skill Progress
 
 > Self-assessed proficiency levels across core ML/DS areas
-
-```
-Python           ████████████████████░░  90%
-Machine Learning ███████████████████░░░  85%
-Deep Learning    ████████████████░░░░░░  72%
-Data Analysis    ████████████████████░░  88%
-PyTorch          ███████████████░░░░░░░  68%
-TensorFlow       █████████████░░░░░░░░░  60%
-NLP              ████████████░░░░░░░░░░  55%
-MLOps / Deploy   ████████░░░░░░░░░░░░░░  38%
-```
-
----
-
-## 🗂️ Project Highlights
-
-### 🔥 Featured Work
-
-| 🚀 Project | 🛠️ Stack | 📌 Description | ⭐ |
-|---|---|---|---|
-| 📊 **Classification Model** | Python, sklearn | End-to-end supervised learning pipeline | University |
-| 🧠 **Neural Net from Scratch** | NumPy, Python | Backprop & forward pass — no frameworks | Learning |
-| 🔍 **EDA Notebook** | Pandas, Seaborn | Deep exploratory analysis on real dataset | Kaggle |
-| 🤖 **Deep Learning Experiment** | PyTorch | Custom training loop with evaluation metrics | Course |
-
-> 📌 *More projects pinned below — feel free to explore!*
 
 ---
 
@@ -133,8 +85,6 @@ MLOps / Deploy   ████████░░░░░░░░░░░░░
 
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -143,77 +93,12 @@ MLOps / Deploy   ████████░░░░░░░░░░░░░
 
 </div>
 
----
-
 ## 📅 Coding Activity
 
 <!--START_SECTION:waka-->
 > 🔄 *WakaTime stats will appear here once WakaTime is connected to your GitHub.*
 > Set it up at [wakatime.com](https://wakatime.com) + [WakaTime GitHub Action](https://github.com/marketplace/actions/waka-readme)
 <!--END_SECTION:waka-->
-
----
-
-## 🌱 Currently Learning
-
-```mermaid
-mindmap
-  root((Kinza's ML Journey))
-    Deep Learning
-      Transformers
-      CNNs
-      RNNs / LSTMs
-    Classical ML
-      Ensemble Methods
-      SVMs
-      Clustering
-    Tools
-      MLflow
-      Docker
-      FastAPI
-    Math
-      Linear Algebra
-      Probability
-      Optimization
-```
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-> 🔄 *Auto-updating via [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)*
-> Your Medium posts from [@syedakinzabatool](https://medium.com/@syedakinzabatool) will appear here automatically once the GitHub Action is set up.
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💡 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedakinzabatool/syedakinzabatool/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedakinzabatool/syedakinzabatool/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/syedakinzabatool/syedakinzabatool/output/github-snake.svg"/>
-</picture>
-
-> ⚙️ *Enable the snake animation by adding the [GitHub Actions workflow](https://github.com/Platane/snk)*
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
