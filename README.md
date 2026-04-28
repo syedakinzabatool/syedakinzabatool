@@ -23,6 +23,6 @@
 - Small utilities and learning notes
 
 ## Connect With Me
-- LinkedIn: [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle)
-- Kaggle: [kaggle.com/your-handle](https://www.kaggle.com/your-handle)
-- Medium: [medium.com/@your-handle](https://medium.com/@your-handle)
+- LinkedIn: [linkedin.com/in/syedakinzabatool](https://www.linkedin.com/in/syedakinzabatool)
+- Kaggle: [kaggle.com/syedakinzabatool](https://www.kaggle.com/syedakinzabatool)
+- Medium: [medium.com/@syedakinzabatool](https://medium.com/@syedakinzabatool)
