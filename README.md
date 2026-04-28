@@ -21,14 +21,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/syedakinzabatool?label=Followers&style=flat-square&color=7c3aed)
 
 </div>
-## 🧬 About Me
+🧬 About Me
 
 🎓 **Syeda Kinza Batool** — AI/ML Engineer & CS Student  
 🎯 Focus → Machine Learning · Deep Learning · Data Science  
 🔧 Tools → Python · PyTorch · TensorFlow · scikit-learn  
 ⚡ Currently → Training models and breaking things 🔥  
 🚀 Goal → Turn every idea into a working ML solution
-## 🔭 What I'm Working On
 ## 🛠️ Tech Stack & Tools
 
 ## 👩‍💻 Languages
@@ -60,15 +59,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-
----
-
-## 📈 Skill Progress
-
-> Self-assessed proficiency levels across core ML/DS areas
-
----
 
 ## 📊 GitHub Stats
 
