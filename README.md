@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Syed Akinza Batool 👋
 
-<!--
-**syedakinzabatool/syedakinzabatool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer • CS Student**
 
-Here are some ideas to get you started:
+## About Me
+- I’m an AI/ML engineer and computer science student who builds and trains machine learning models.
+- I share my university learning projects, experiments, and code here.
+- I enjoy turning ideas into practical ML solutions and learning by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+- Model training, evaluation, and iteration
+- Data preparation, feature engineering, and experimentation
+- Deep learning and classical ML projects
+
+## Tech & Tools
+- Python, NumPy, Pandas, scikit-learn
+- PyTorch / TensorFlow
+- Jupyter, Git, Linux
+
+## Highlights
+- University course projects and assignments
+- ML experiments and notebooks
+- Small utilities and learning notes
+
+## Connect With Me
+- LinkedIn: [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle)
+- Kaggle: [kaggle.com/your-handle](https://www.kaggle.com/your-handle)
+- Medium: [medium.com/@your-handle](https://medium.com/@your-handle)
