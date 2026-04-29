@@ -58,27 +58,11 @@ I am focused on machine learning, deep learning, and data science with an intere
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## GitHub Stats
+## Contribution Streak
 
 <div align="center">
 
-<table>
-<tr>
-<td width="48%">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=syedakinzabatool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&text_color=e8f3ed&title_color=4a9d6c"/>
-</td>
-<td width="48%">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&text_color=e8f3ed&title_color=4a9d6c"/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<div align="center">
-<img height="160em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0a0a0a&ring=4a9d6c&fire=4a9d6c&currStreakNum=e8f3ed&sideNums=7db894&currStreakLabel=5fa878&sideLabels=6fb588&dates=5fa878&stroke=1a1a1a"/>
-</div>
-</td>
-</tr>
-</table>
+<img height="150em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0a0a0a&ring=0f766e&fire=14b8a6&currStreakNum=f0fdfa&sideNums=5eead4&currStreakLabel=14b8a6&sideLabels=2d9f96&dates=0f766e&stroke=1a1a1a"/>
 
 </div>
 
