@@ -1,16 +1,20 @@
+<div align="center">
+
 # Syeda Kinza Batool
 
-**AI / ML Engineer | CS Student**
+### AI / ML Engineer | CS Student
 
 I build practical machine learning systems, experiment with data-driven ideas, and keep learning through hands-on projects.
 
 [LinkedIn](https://www.linkedin.com/in/syedakinzabatool) • [Kaggle](https://www.kaggle.com/syedakinzabatool) • [Medium](https://medium.com/@syedakinzabatool) • [GitHub](https://github.com/syedakinzabatool)
 
+</div>
+
 ## About
 
 I am focused on machine learning, deep learning, and data science with an interest in turning raw data into useful, maintainable solutions. I like working across the full workflow: problem framing, data preparation, model building, evaluation, and clear presentation of results.
 
-## What I Work With
+## Core Focus
 
 - Python for ML, scripting, and experimentation
 - PyTorch, TensorFlow, Keras, and scikit-learn for model development
@@ -65,22 +69,14 @@ I am focused on machine learning, deep learning, and data science with an intere
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=syedakinzabatool&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0d1117&ring=6b8f71&fire=6b8f71&currStreakNum=eaf4ec&sideNums=c6d8cb&currStreakLabel=8fb39a&sideLabels=93a694&dates=6f8377&stroke=1f2f26)](https://git.io/streak-stats)
 
 </div>
 
-## Coding Activity
-
-The repository includes a daily WakaTime workflow at [.github/workflows/waka-readme.yml](.github/workflows/waka-readme.yml) that updates the section below from the `WAKATIME_API_KEY` GitHub secret.
-
 <!--START_SECTION:waka-->
-> WakaTime stats will appear here after the workflow runs.
 <!--END_SECTION:waka-->
 
 ## Connect
 
 If you would like to connect, the best places are [LinkedIn](https://www.linkedin.com/in/syedakinzabatool), [Kaggle](https://www.kaggle.com/syedakinzabatool), and [Medium](https://medium.com/@syedakinzabatool).
 
----
-
-This README is intentionally structured to be clearer, more professional, and easier to maintain while keeping the personal profile feel.
