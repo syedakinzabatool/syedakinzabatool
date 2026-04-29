@@ -58,11 +58,19 @@ I am focused on machine learning, deep learning, and data science with an intere
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
+## Most Used Languages
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&text_color=fef3c7&title_color=d97706"/>
+
+</div>
+
 ## Contribution Streak
 
 <div align="center">
 
-<img height="150em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0a0a0a&ring=0f766e&fire=14b8a6&currStreakNum=f0fdfa&sideNums=5eead4&currStreakLabel=14b8a6&sideLabels=2d9f96&dates=0f766e&stroke=1a1a1a"/>
+<img height="150em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0a0a0a&ring=d97706&fire=22c55e&currStreakNum=fef3c7&sideNums=f59e0b&currStreakLabel=d97706&sideLabels=b45309&dates=22c55e&stroke=1a1a1a"/>
 
 </div>
 
