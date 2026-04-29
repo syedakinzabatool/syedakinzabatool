@@ -62,14 +62,23 @@ I am focused on machine learning, deep learning, and data science with an intere
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedakinzabatool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
+<table>
+<tr>
+<td width="48%">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=syedakinzabatool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=eaf4ec&title_color=6b8f71"/>
+</td>
+<td width="48%">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=eaf4ec&title_color=6b8f71"/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0d1117&ring=6b8f71&fire=6b8f71&currStreakNum=eaf4ec&sideNums=c6d8cb&currStreakLabel=8fb39a&sideLabels=93a694&dates=6f8377&stroke=1f2f26)](https://git.io/streak-stats)
+<img height="160em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0d1117&ring=4a6d54&fire=4a6d54&currStreakNum=d0e8da&sideNums=8fb89a&currStreakLabel=5a8366&sideLabels=668d75&dates=5a7063&stroke=1f2f26"/>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
 
