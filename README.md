@@ -65,16 +65,16 @@ I am focused on machine learning, deep learning, and data science with an intere
 <table>
 <tr>
 <td width="48%">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=syedakinzabatool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=eaf4ec&title_color=6b8f71"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=syedakinzabatool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&text_color=e8f3ed&title_color=4a9d6c"/>
 </td>
 <td width="48%">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=eaf4ec&title_color=6b8f71"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&text_color=e8f3ed&title_color=4a9d6c"/>
 </td>
 </tr>
 <tr>
 <td colspan="2">
 <div align="center">
-<img height="160em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0d1117&ring=4a6d54&fire=4a6d54&currStreakNum=d0e8da&sideNums=8fb89a&currStreakLabel=5a8366&sideLabels=668d75&dates=5a7063&stroke=1f2f26"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0a0a0a&ring=4a9d6c&fire=4a9d6c&currStreakNum=e8f3ed&sideNums=7db894&currStreakLabel=5fa878&sideLabels=6fb588&dates=5fa878&stroke=1a1a1a"/>
 </div>
 </td>
 </tr>
