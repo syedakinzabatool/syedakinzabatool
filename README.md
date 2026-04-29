@@ -27,6 +27,7 @@ I am focused on machine learning, deep learning, and data science with an intere
 ## 🛠️ Technical Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,12 +37,14 @@ I am focused on machine learning, deep learning, and data science with an intere
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Machine Learning**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 **Data & Visualization**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
@@ -49,6 +52,7 @@ I am focused on machine learning, deep learning, and data science with an intere
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 **Tools**
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -65,7 +69,6 @@ I am focused on machine learning, deep learning, and data science with an intere
 <img height="160em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=00000000&ring=d4af37&fire=fbbf24&currStreakNum=ffffff&sideNums=e5e5e5&currStreakLabel=d4af37&sideLabels=cccccc&dates=facc15"/>
 
 </div>
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
