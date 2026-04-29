@@ -6,7 +6,7 @@
 
 I build practical machine learning systems, experiment with data-driven ideas, and keep learning through hands-on projects.
 
-• [LinkedIn](https://www.linkedin.com/in/syedakinzabatool06/?) • [Kaggle](https://www.kaggle.com/syedakinzabatooltech) • [Medium](https://medium.com/@syedakinzabatool.tech) • [Email](syedakinzabatool.tech@gmail.com)
+• [LinkedIn](https://www.linkedin.com/in/syedakinzabatool06/?) • [Kaggle](https://www.kaggle.com/syedakinzabatooltech) • [Medium](https://medium.com/@syedakinzabatool.tech)
 
 </div>
 
