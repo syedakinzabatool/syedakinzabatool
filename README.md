@@ -60,17 +60,11 @@ I am focused on machine learning, deep learning, and data science with an intere
 
 ## Most Used Languages
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&text_color=fef3c7&title_color=d97706"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=475569"/>
 
-</div>
-
-## Contribution Streak
-
-<div align="center">
-
-<img height="150em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=0a0a0a&ring=d97706&fire=22c55e&currStreakNum=fef3c7&sideNums=f59e0b&currStreakLabel=d97706&sideLabels=b45309&dates=22c55e&stroke=1a1a1a"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=00000000&ring=2563eb&fire=3b82f6&currStreakNum=1e293b&sideNums=64748b&currStreakLabel=2563eb&sideLabels=475569&dates=3b82f6"/>
 
 </div>
 
