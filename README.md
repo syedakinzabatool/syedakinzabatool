@@ -62,11 +62,12 @@ I am focused on machine learning, deep learning, and data science with an intere
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=475569"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=f5f5f5"/>
 
-<img height="160em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=00000000&ring=2563eb&fire=3b82f6&currStreakNum=1e293b&sideNums=64748b&currStreakLabel=2563eb&sideLabels=475569&dates=3b82f6"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=00000000&ring=d4af37&fire=fbbf24&currStreakNum=ffffff&sideNums=e5e5e5&currStreakLabel=d4af37&sideLabels=cccccc&dates=facc15"/>
 
 </div>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
