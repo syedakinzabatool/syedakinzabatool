@@ -72,17 +72,7 @@ I am focused on machine learning, deep learning, and data science with an intere
 
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-Java         1 hr 23 mins          █████████▒░░░░░░░░░░░░░░░   37.97 %
-Other        51 mins               ██████░░░░░░░░░░░░░░░░░░░   23.68 %
-JSON         32 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-Batchfile    20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Python       18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-```
-
-<!--END_SECTION:waka-->
+<!-- WakaTime section removed: using cached SVG cards above -->
 
 ## Connect
 
