@@ -64,11 +64,11 @@ I am focused on machine learning, deep learning, and data science with an intere
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: nowrap;">
 
-	<!-- Left: compact languages card (fixed width) -->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=dark&hide_border=true&card_width=300" width="300" style="max-width:100%;" />
+	<!-- Left: compact languages card (fixed width) - cached locally by workflow -->
+	<img src="assets/top-langs.svg" width="300" style="max-width:100%;" />
 
-	<!-- Right: streak card (match width to align) -->
-	<img src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=00000000&ring=d4af37&fire=fbbf24&currStreakNum=ffffff&sideNums=e5e5e5&currStreakLabel=d4af37&sideLabels=cccccc&dates=facc15" width="300" style="max-width:100%;" />
+	<!-- Right: streak card (match width to align) - cached locally by workflow -->
+	<img src="assets/streak.svg" width="300" style="max-width:100%;" />
 
 </div>
 
