@@ -62,11 +62,13 @@ I am focused on machine learning, deep learning, and data science with an intere
 
 ## Most Used Languages
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: nowrap;">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=d4af37&text_color=f5f5f5"/>
+	<!-- Left: compact languages card (fixed width) -->
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedakinzabatool&layout=compact&theme=dark&hide_border=true&card_width=300" width="300" style="max-width:100%;" />
 
-<img height="160em" src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=00000000&ring=d4af37&fire=fbbf24&currStreakNum=ffffff&sideNums=e5e5e5&currStreakLabel=d4af37&sideLabels=cccccc&dates=facc15"/>
+	<!-- Right: streak card (match width to align) -->
+	<img src="https://streak-stats.demolab.com?user=syedakinzabatool&hide_border=true&background=00000000&ring=d4af37&fire=fbbf24&currStreakNum=ffffff&sideNums=e5e5e5&currStreakLabel=d4af37&sideLabels=cccccc&dates=facc15" width="300" style="max-width:100%;" />
 
 </div>
 
