@@ -6,7 +6,7 @@
 
 I build practical machine learning systems, experiment with data-driven ideas, and keep learning through hands-on projects.
 
-• [LinkedIn](https://www.linkedin.com/in/syedakinzabatool06/?) • [Kaggle](https://www.kaggle.com/syedakinzabatooltech) • [Medium](https://medium.com/@syedakinzabatool.tech)
+• [LinkedIn](https://www.linkedin.com/in/syedakinzabatool06/?) • [Kaggle](https://www.kaggle.com/syedakinzabatooltech) • [Medium](https://medium.com/@syedakinzabatool.tech) •📧 [syedakinzabatool.tech@gmail.com](mailto:syedakinzabatool.tech@gmail.com)
 
 </div>
 
@@ -60,7 +60,7 @@ I am focused on machine learning, deep learning, and data science with an intere
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-## Most Used Languages
+<!-- ## Most Used Languages
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: nowrap;">
 
@@ -68,7 +68,7 @@ I am focused on machine learning, deep learning, and data science with an intere
 	<img src="assets/top-langs.svg" width="300" style="max-width:100%;" />
 
 	<!-- Right: streak card (match width to align) - cached locally by workflow -->
-	<img src="assets/streak.svg" width="300" style="max-width:100%;" />
+	<img src="assets/streak.svg" width="300" style="max-width:100%;" /> -->
 
 </div>
 
