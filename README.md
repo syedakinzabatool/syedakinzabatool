@@ -6,8 +6,7 @@
 
 I build practical machine learning systems, experiment with data-driven ideas, and keep learning through hands-on projects.
 
-• [LinkedIn](https://www.linkedin.com/in/syedakinzabatool06/?) • [Kaggle](https://www.kaggle.com/syedakinzabatooltech) • [Medium](https://medium.com/@syedakinzabatool.tech) •📧 [syedakinzabatool.tech@gmail.com](mailto:syedakinzabatool.tech@gmail.com)
-
+• [LinkedIn](https://www.linkedin.com/in/syedakinzabatool06/?) • [Kaggle](https://www.kaggle.com/syedakinzabatooltech) • [Medium](https://medium.com/@syedakinzabatool.tech) • [Email](mailto:syedakinzabatool.tech@gmail.com)
 </div>
 
 ## About
@@ -76,5 +75,5 @@ I am focused on machine learning, deep learning, and data science with an intere
 
 ## Connect
 
-If you would like to connect, the best places are [LinkedIn](https://www.linkedin.com/in/syedakinzabatool06/), [Kaggle](https://www.kaggle.com/syedakinzabatooltech), and [Medium](https://medium.com/@syedakinzabatool.tech).
+If you would like to connect, the best places are [LinkedIn](https://www.linkedin.com/in/syedakinzabatool06/), [Kaggle](https://www.kaggle.com/syedakinzabatooltech), [Medium](https://medium.com/@syedakinzabatool.tech) and [Email](mailto:syedakinzabatool.tech@gmail.com).
 
